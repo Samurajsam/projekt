@@ -1,0 +1,7 @@
+{
+    "name": "grzesiek/projekt",
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "html2text/html2text": "^4.1"
+    }
+}
